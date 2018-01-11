@@ -1,0 +1,2 @@
+model_checkpoint_path: "notMnist-4096-cnn-dp.ckpt"
+all_model_checkpoint_paths: "notMnist-4096-cnn-dp.ckpt"
